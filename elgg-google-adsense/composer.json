@@ -2,7 +2,7 @@
 	"name": "elgg/elgg-google-adsense",
 	"type": "elgg-plugin",
 	"description": "Agregar ads.txt de Google Adsense.",
-	"license": "Public",
+	"license": "MIT",
 	"keywords": ["ads"],
 	"homepage": "https://elgg.org",
 	"authors": [
