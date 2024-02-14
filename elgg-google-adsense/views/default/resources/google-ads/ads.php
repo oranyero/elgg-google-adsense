@@ -1,0 +1,1 @@
+Google ADS text.
